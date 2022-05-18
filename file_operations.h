@@ -2,9 +2,9 @@
 File     : file_operations.h (Only)
 Code-Name: File & O.S. Environment Operations
 Version  : 1.0s (support tHemT string class) 19.03m.2006
-Desc     : Fýle and O.S. Environment functions
+Desc     : FÃ½le and O.S. Environment functions
 
-Copyright (C) 2005-2006 MuRat 'tHemT' TaMcI (theismt@gmail.com)
+Copyright (C) 2005-2006 MuRat 'tHemT' TaMcI (m.tamci@gmail.com)
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
