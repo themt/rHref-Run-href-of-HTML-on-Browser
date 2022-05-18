@@ -4,7 +4,7 @@ Code-Name: tHemT rHref
 Version  : 1.9.5s (11.06m.2006)
 Desc     : Open your files on internet browser
 
-Copyright (C) 2005-2006 MuRat 'tHemT' TaMcI (theismt@gmail.com)
+Copyright (C) 2005-2006 MuRat 'tHemT' TaMcI (m.tamci@gmail.com)
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
