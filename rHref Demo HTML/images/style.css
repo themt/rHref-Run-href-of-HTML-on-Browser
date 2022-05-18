@@ -1,0 +1,53 @@
+body {
+	background-color: #000000;
+	margin: 0px;
+	padding: 0px;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	color: #595959;
+	font-size: 10pt;
+
+
+}
+a {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #999999;
+}
+a:hover {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #CCCCCC;
+}
+.head_subject {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #DE8500;
+
+}
+.head_side {
+	background-image: url(images/Fc.jpg);
+}
+.content {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #676767;
+	background-color: #101010;
+}
+.project_head {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	color: #CC9900;
+	font-weight: bold;
+}
+.project_description {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #808080;
+	font-style: italic;
+}
+.project_content {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #808080;
+}
+
