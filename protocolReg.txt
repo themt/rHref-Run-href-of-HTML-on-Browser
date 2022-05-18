@@ -1,0 +1,30 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\$protocol$]
+@="URL: $protocol$Protocol"
+"URL Protocol"=""
+"EditFlags"=hex:02,00,00,00
+"Version"="1.06"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\$protocol$\shell]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\$protocol$\shell\open]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\$protocol$\shell\open\command]
+@="\"$apppath$\" \"%1\""
+
+
+
+
+[HKEY_CLASSES_ROOT\$protocol$]
+@="URL: $protocol$Protocol"
+"URL Protocol"=""
+"EditFlags"=hex:02,00,00,00
+"Version"="1.06"
+
+[HKEY_CLASSES_ROOT\$protocol$\shell]
+
+[HKEY_CLASSES_ROOT\$protocol$\shell\open]
+
+[HKEY_CLASSES_ROOT\$protocol$\shell\open\command]
+@="\"$apppath$\" \"%1\""
