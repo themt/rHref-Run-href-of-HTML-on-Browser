@@ -4,7 +4,7 @@ Code-Name: tHemT string
 Version  : 3.8s (convertable to c style) 14.05m.2006
 Desc     : string-type
 
-Copyright (C) 2005-2006 MuRat 'tHemT' TaMcI (theismt@gmail.com)
+Copyright (C) 2005-2006 MuRat 'tHemT' TaMcI (m.tamci@gmail.com)
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
